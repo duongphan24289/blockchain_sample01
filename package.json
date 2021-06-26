@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "solidity-coverage": "^0.7.16",
+    "truffle": "^5.3.12",
     "truffle-assertions": "^0.9.2"
   }
 }
